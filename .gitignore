@@ -1,0 +1,4 @@
+SentimentClassifier/data/*
+SentimentClassifier/word2vec/*
+.idea/
+__pycache__/
